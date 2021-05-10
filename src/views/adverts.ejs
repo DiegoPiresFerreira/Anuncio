@@ -1,0 +1,25 @@
+<%-include('./partials/header.ejs')%>
+<%-include('./partials/navBar.ejs')%>
+<div class="container">
+    <hr>
+    <h2>Anuncios</h2>
+    <hr>
+    <table class="table table-bordered">
+        <form action="/advert" method="get">
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                <div class="col-auto">
+                <label for="inputPassword6" class="col-form-label ">Pesquisar</label>
+                </div>
+                <div class="col-4 inline" >
+                    <input type="text" name="cliente" class="form-control float-left" placeholder=" Nome do cliente ou Intervalo de tempo">
+                </div>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                    <button class="btn btn-primary me-md-2" type="submit">Ok</button>
+                </div>
+            </form>
+            </div>
+        </form>
+          <br>
+    </table>
+</div>
+<%-include('./partials/footer.ejs')%>

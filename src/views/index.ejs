@@ -1,0 +1,39 @@
+<%-include('partials/header.ejs')%>
+<%-include('partials/navBar.ejs')%>
+<body>
+    <header>
+        <div class="container">
+            <div class="card">
+                <div class="card-header">
+                    <h1>Cadastro de Anuncios</h1>
+                </div>
+                <div class="card-body">
+                    <form method="post" action="/advert"> 
+                        <div class="mb-3">
+                          <label class="form-label">Anuncio</label>
+                          <input type="text" class="form-control" name="announce" placeholder="Nome do Anuncio" >
+                        </div>
+                        <div class="mb-3">
+                          <label class="form-label">Cliente</label>
+                          <input type="text" class="form-control" name="name" placeholder="Nome do Cliente" >
+                        </div>
+                        <div class="mb-3">
+                            <label  class="form-label">Data de Inicio</label>
+                            <input type="text" class="form-control" name="dateStart" placeholder="dd/mm/yyyy">
+                          </div>
+                          <div class="mb-3">
+                            <label  class="form-label">Data de termino</label>
+                            <input type="text" class="form-control" name="dateEnd" placeholder="dd/mm/yyyy" >
+                          </div>
+                          <div class="mb-3">
+                            <label  class="form-label">Investimento por Dia</label>
+                            <input type="text" class="form-control" name="valueInvested" placeholder="R$" >
+                          </div>
+                        <button type="submit" class="btn btn-success">Cadastrar</button>
+                      </form>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+<%-include('partials/footer.ejs')%>
