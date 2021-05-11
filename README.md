@@ -9,7 +9,7 @@ um relatório contendo dados como: Nome do anúncio, total investido, total de v
 ## Layout web
 ![Web 1](https://github.com/DiegoPiresFerreira/assets/blob/master/homes.png)
 ![Web 2](https://github.com/DiegoPiresFerreira/assets/blob/master/consultas.png)
-![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/relatorios.PNG)
+![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/_relatorios.PNG)
 
 # Tecnologias utilizadas
 ## Back end
