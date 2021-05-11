@@ -7,7 +7,7 @@ A consulta é onde o usuário pesquisa os dados do anúncio, digitando o nome do
 um relatório contendo dados como: Nome do anúncio, total investido, total de visualizações, total de cliques e total de compartilhamentos.
 
 ## Layout web
-![Web 1](https://github.com/DiegoPiresFerreira/assets/blob/master/homes.png)
+![Web 1](https://github.com/DiegoPiresFerreira/assets/blob/master/home_.png)
 ![Web 2](https://github.com/DiegoPiresFerreira/assets/blob/master/consultas.png)
 ![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/_relatorios.png)
 
@@ -41,6 +41,10 @@ git clone https://github.com/DiegoPiresFerreira/Anuncio.git
 
 # acessando frot-end da aplicação
 http://localhost:8080
+
+# Instruções de utilização
+![Web 4](https://github.com/DiegoPiresFerreira/assets/blob/master/home2_.png)
+![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/consulta2.png)
 
 
 
