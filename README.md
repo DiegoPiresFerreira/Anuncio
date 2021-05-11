@@ -7,7 +7,7 @@ A consulta é onde o usuário pesquisa os dados do anúncio, digitando o nome do
 um relatório contendo dados como: Nome do anúncio, total investido, total de visualizações, total de cliques e total de compartilhamentos.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/DiegoPiresFerreira/assets/blob/master/Home.png)
 
 
 ## Modelo conceitual
