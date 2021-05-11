@@ -11,9 +11,6 @@ um relatório contendo dados como: Nome do anúncio, total investido, total de v
 ![Web 2](https://github.com/DiegoPiresFerreira/assets/blob/master/consulta.png)
 ![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/relatorio.PNG)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
 # Tecnologias utilizadas
 ## Back end
 - JavaScript
