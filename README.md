@@ -7,9 +7,9 @@ A consulta é onde o usuário pesquisa os dados do anúncio, digitando o nome do
 um relatório contendo dados como: Nome do anúncio, total investido, total de visualizações, total de cliques e total de compartilhamentos.
 
 ## Layout web
-![Web 1](https://github.com/DiegoPiresFerreira/assets/blob/master/Home.png)
-![Web 2](https://github.com/DiegoPiresFerreira/assets/blob/master/consulta.png)
-![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/relatorio.PNG)
+![Web 1](https://github.com/DiegoPiresFerreira/assets/blob/master/homes.png)
+![Web 2](https://github.com/DiegoPiresFerreira/assets/blob/master/consultas.png)
+![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/relatorios.PNG)
 
 # Tecnologias utilizadas
 ## Back end
