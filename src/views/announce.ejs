@@ -32,7 +32,7 @@
                         <%data.forEach(advert=>{%>
                             <tr>
                                 <td><%=advert.name%></td>
-                                <td>R$ <%=advert.total.toFixed(2)%></td>
+                                <td>R$ <%=advert.total.toFixed(2).toString().replace('.',',')%></td>
                                 <td><%=advert.visualizations%></td>
                                 <td><%=advert.clicks%></td>
                                 <td><%=advert.sharings%></td>

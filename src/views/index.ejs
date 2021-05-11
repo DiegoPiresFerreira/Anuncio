@@ -19,11 +19,25 @@
                         </div>
                         <div class="mb-3">
                             <label  class="form-label">Data de início</label>
-                            <input type="text" class="form-control" name="dateStart" placeholder="dd/mm/yyyy">
+                            <div class="input-group date">
+                              <input type="text" id="data-pagamento" name="dateStart"
+                                     placeholder="dd/mm/yyyy"
+                                     class="form-control"/>
+                              <div class="input-group-addon">
+                                  <span class="glyphicon glyphicon-th"></span>
+                              </div>
+                          </div>
                           </div>
                           <div class="mb-3">
                             <label  class="form-label">Data de término</label>
-                            <input type="text" class="form-control" name="dateEnd" placeholder="dd/mm/yyyy" >
+                            <div class="input-group date">
+                              <input type="text" id="data-pagamento" name="dateEnd"
+                                     placeholder="dd/mm/yyyy"
+                                     class="form-control"/>
+                              <div class="input-group-addon">
+                                  <span class="glyphicon glyphicon-th"></span>
+                              </div>
+                          </div>
                           </div>
                           <div class="mb-3">
                             <label  class="form-label">Investimento por dia</label>
@@ -35,5 +49,14 @@
             </div>
         </div>
     </header>
+    
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<!-- Plugin pro Datapicker novo -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.1/js/bootstrap-datepicker.min.js'></script>
+<script>
+$('.input-group.date').datepicker({format: "dd/mm/yyyy"});
+</script>
 </body>
 <%-include('partials/footer.ejs')%>
