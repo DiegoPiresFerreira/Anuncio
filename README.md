@@ -9,7 +9,7 @@ um relatório contendo dados como: Nome do anúncio, total investido, total de v
 ## Layout web
 ![Web 1](https://github.com/DiegoPiresFerreira/assets/blob/master/Home.png)
 ![Web 2](https://github.com/DiegoPiresFerreira/assets/blob/master/consulta.png)
-![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/relatorio.png)
+![Web 3](https://github.com/DiegoPiresFerreira/assets/blob/master/relatorio.PNG)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
